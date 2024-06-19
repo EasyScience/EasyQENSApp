@@ -1,0 +1,7 @@
+The full data set can be found here: https://doi.ill.fr/10.5291/ILL-DATA.4-03-1704
+The data is published in the following paper: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.054440
+
+
+
+
+
